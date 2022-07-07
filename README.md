@@ -14,7 +14,7 @@
 </div>
 <br /> 
 
-![mnmhbbb's github stats](https://github-readme-stats.vercel.app/api?username=mnmhbbb&show_icons=true)
+
 
 #### Contact
 <a href="https://mnmhbbb.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tech Blog-ebebeb?style=flat-square"/></a>
